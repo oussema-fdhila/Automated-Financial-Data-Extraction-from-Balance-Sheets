@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
      sudo apt-get install tesseract-ocr
 4. Run the script to extract data from a balance sheet image:
    ```bash
-   python extract_data.py --image path_to_image.png
+   python extract_data.ipynb --image path_to_image.png
 
 ## Contributors
    - **Oussama Fdhila** - Project Lead - Data Scientist
